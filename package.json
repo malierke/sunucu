@@ -1,0 +1,26 @@
+{
+  "name": "sunucu-2",
+  "version": "1.0.0",
+  "description": "sunucu tabanlı programlama açıklaması",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malierke/sunucu.git"
+  },
+  "keywords": [
+    "sunucu"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malierke/sunucu/issues"
+  },
+  "homepage": "https://github.com/malierke/sunucu#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
